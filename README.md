@@ -2,10 +2,6 @@
 
 An immersive, responsive, and futuristic landing page built with a **Cyborg/Cyberpunk** theme. This project was developed as part of the Techfest CA Program challenge.
 
-## 🚀 Live Demo
-**[CLICK HERE TO VIEW LIVE SITE](https://your-username.github.io/your-repo-name/)** 
-*(Note: Replace this link after hosting on GitHub Pages)*
-
 ---
 
 ## ✨ Features
@@ -23,9 +19,7 @@ An immersive, responsive, and futuristic landing page built with a **Cyborg/Cybe
 - **Lucide Icons:** High-quality tech-focused iconography.
 - **AOS Library:** For scroll-triggered animations.
 
-## 📸 Preview
-![Project Screenshot]([https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshot.png](https://github.com/Qubic-alt/Cyborg_Landing_Page/blob/main/CYBORG_OS%20_%20Next%20Gen%20Augmentation%20-%20Google%20Chrome%202026-06-25%2023-50-25.mp4))
-*(Note: Upload a screenshot to your repo and update this link)*
+
 
 ---
 
