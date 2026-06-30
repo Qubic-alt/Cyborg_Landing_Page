@@ -32,5 +32,4 @@ An immersive, responsive, and futuristic landing page built with a **Cyborg/Cybe
 ## 📂 Project Structure
 ```text
 ├── index.html       # Main landing page code
-├── assets/          # Images and icons (if any)
 └── README.md        # Project documentation
