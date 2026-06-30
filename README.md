@@ -24,7 +24,7 @@ An immersive, responsive, and futuristic landing page built with a **Cyborg/Cybe
 - **AOS Library:** For scroll-triggered animations.
 
 ## 📸 Preview
-![Project Screenshot](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshot.png)
+![Project Screenshot]([https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshot.png](https://github.com/Qubic-alt/Cyborg_Landing_Page/blob/main/CYBORG_OS%20_%20Next%20Gen%20Augmentation%20-%20Google%20Chrome%202026-06-25%2023-50-25.mp4))
 *(Note: Upload a screenshot to your repo and update this link)*
 
 ---
